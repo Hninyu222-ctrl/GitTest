@@ -5,9 +5,11 @@ body{
 h1{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    margin-top: 50px;;
+    margin-top: 10%;
 }
 p{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
     width: 500px;
+    margin: 0 auto;
+    text-align: center;
 }
