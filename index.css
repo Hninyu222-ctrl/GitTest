@@ -4,4 +4,10 @@ body{
 }
 h1{
     font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 50px;;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    width: 500px;
 }
